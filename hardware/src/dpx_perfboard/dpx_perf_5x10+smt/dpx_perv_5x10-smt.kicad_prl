@@ -67,6 +67,12 @@
     "visible_layers": "ffbffff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "dpx_perv_5x10-smt.kicad_prl",
     "version": 3
@@ -75,14 +81,26 @@
     "files": [
       {
         "name": "dpx_perv_5x10-smt.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1066
+          "pos_x": 74,
+          "pos_y": 129,
+          "size_x": 1440,
+          "size_y": 875
+        }
+      },
+      {
+        "name": "dpx_perv_5x10-smt.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 360,
+          "pos_y": 25,
+          "size_x": 720,
+          "size_y": 875
         }
       }
     ]
