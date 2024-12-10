@@ -105,17 +105,14 @@ author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 <details>
   <summary>Images</summary>
   
-### FRONT 
-![FRONT][product-front]
+### 05x10+SMT 
+![FRONT][product-a]
 
-### REAR
-![REAR][product-rear]
+### 05x15
+![FRONT][product-b]
 
-### iBOM PCB Front
-![iBOM Front][product-pcbFront]
-
-### iBOM PCB Rear
-![iBOM Front][product-pcbRear]
+### 05x30-split
+![FRONT][product-c]
 
 </details>
 
@@ -259,9 +256,9 @@ Don't forget to give the project a star! Thanks again!
 [product-rear]: images/rear.png
 [product-pcbFront]: images/pcb_front.png
 [product-pcbRear]: images/pcb_rear.png
-[product-a]:images/5x10.png
-[product-b]:images/5x15.png
-[product-c]:images/5x30s.png
+[product-a]: images/5x10.png
+[product-b]: images/5x15.png
+[product-c]: images/5x30s.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
