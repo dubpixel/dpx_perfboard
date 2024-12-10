@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x30_Top_Bottom,dpx-02x15-nosilk,44.93,-51.365,0.0,top
+J2,Conn_02x30_Top_Bottom,dpx-02x15-nosilk,85.48,-51.365,0.0,top
+U1,~,DPX_PROTOBOARD-5x5,65.22,-33.615,0.0,bottom
+U2,~,DPX_PROTOBOARD-5x5,65.235,-46.31,0.0,bottom
+U3,~,DPX_PROTOBOARD-5x5,65.225,-59.02,0.0,bottom
